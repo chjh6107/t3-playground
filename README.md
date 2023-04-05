@@ -1,1 +1,1 @@
-# trpc-playground
+# t3-playground
